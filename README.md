@@ -1,1 +1,1 @@
-# Coursera_SPA_AngularJS
+# Coursera-SPAWithAngularJS
